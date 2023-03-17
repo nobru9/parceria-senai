@@ -29,3 +29,34 @@ C:\Users\juanb\OneDrive\Área de Trabalho\testando\testando\obj\Debug\net7.0\ref
 C:\Users\juanb\OneDrive\Área de Trabalho\testando\testando\obj\Debug\net7.0\testando.pdb
 C:\Users\juanb\OneDrive\Área de Trabalho\testando\testando\obj\Debug\net7.0\testando.genruntimeconfig.cache
 C:\Users\juanb\OneDrive\Área de Trabalho\testando\testando\obj\Debug\net7.0\ref\testando.dll
+C:\Users\juanb\source\repos\ProjetoTesteParcerias\testando\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\juanb\source\repos\ProjetoTesteParcerias\testando\bin\Debug\net7.0\appsettings.json
+C:\Users\juanb\source\repos\ProjetoTesteParcerias\testando\bin\Debug\net7.0\testando.staticwebassets.runtime.json
+C:\Users\juanb\source\repos\ProjetoTesteParcerias\testando\bin\Debug\net7.0\testando.exe
+C:\Users\juanb\source\repos\ProjetoTesteParcerias\testando\bin\Debug\net7.0\testando.deps.json
+C:\Users\juanb\source\repos\ProjetoTesteParcerias\testando\bin\Debug\net7.0\testando.runtimeconfig.json
+C:\Users\juanb\source\repos\ProjetoTesteParcerias\testando\bin\Debug\net7.0\testando.dll
+C:\Users\juanb\source\repos\ProjetoTesteParcerias\testando\bin\Debug\net7.0\testando.pdb
+C:\Users\juanb\source\repos\ProjetoTesteParcerias\testando\obj\Debug\net7.0\testando.csproj.AssemblyReference.cache
+C:\Users\juanb\source\repos\ProjetoTesteParcerias\testando\obj\Debug\net7.0\testando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanb\source\repos\ProjetoTesteParcerias\testando\obj\Debug\net7.0\testando.AssemblyInfoInputs.cache
+C:\Users\juanb\source\repos\ProjetoTesteParcerias\testando\obj\Debug\net7.0\testando.AssemblyInfo.cs
+C:\Users\juanb\source\repos\ProjetoTesteParcerias\testando\obj\Debug\net7.0\testando.csproj.CoreCompileInputs.cache
+C:\Users\juanb\source\repos\ProjetoTesteParcerias\testando\obj\Debug\net7.0\testando.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\juanb\source\repos\ProjetoTesteParcerias\testando\obj\Debug\net7.0\testando.RazorAssemblyInfo.cache
+C:\Users\juanb\source\repos\ProjetoTesteParcerias\testando\obj\Debug\net7.0\testando.RazorAssemblyInfo.cs
+C:\Users\juanb\source\repos\ProjetoTesteParcerias\testando\obj\Debug\net7.0\staticwebassets\msbuild.testando.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\juanb\source\repos\ProjetoTesteParcerias\testando\obj\Debug\net7.0\staticwebassets\msbuild.build.testando.props
+C:\Users\juanb\source\repos\ProjetoTesteParcerias\testando\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.testando.props
+C:\Users\juanb\source\repos\ProjetoTesteParcerias\testando\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.testando.props
+C:\Users\juanb\source\repos\ProjetoTesteParcerias\testando\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\juanb\source\repos\ProjetoTesteParcerias\testando\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\juanb\source\repos\ProjetoTesteParcerias\testando\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\juanb\source\repos\ProjetoTesteParcerias\testando\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\juanb\source\repos\ProjetoTesteParcerias\testando\obj\Debug\net7.0\scopedcss\bundle\testando.styles.css
+C:\Users\juanb\source\repos\ProjetoTesteParcerias\testando\obj\Debug\net7.0\scopedcss\projectbundle\testando.bundle.scp.css
+C:\Users\juanb\source\repos\ProjetoTesteParcerias\testando\obj\Debug\net7.0\testando.dll
+C:\Users\juanb\source\repos\ProjetoTesteParcerias\testando\obj\Debug\net7.0\refint\testando.dll
+C:\Users\juanb\source\repos\ProjetoTesteParcerias\testando\obj\Debug\net7.0\testando.pdb
+C:\Users\juanb\source\repos\ProjetoTesteParcerias\testando\obj\Debug\net7.0\testando.genruntimeconfig.cache
+C:\Users\juanb\source\repos\ProjetoTesteParcerias\testando\obj\Debug\net7.0\ref\testando.dll

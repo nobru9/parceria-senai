@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\juanb\\OneDrive\\Área de Trabalho\\testando\\testando\\testando.csproj": {}
+    "C:\\Users\\juanb\\source\\repos\\ProjetoTesteParcerias\\testando\\testando.csproj": {}
   },
   "projects": {
-    "C:\\Users\\juanb\\OneDrive\\Área de Trabalho\\testando\\testando\\testando.csproj": {
+    "C:\\Users\\juanb\\source\\repos\\ProjetoTesteParcerias\\testando\\testando.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\juanb\\OneDrive\\Área de Trabalho\\testando\\testando\\testando.csproj",
+        "projectUniqueName": "C:\\Users\\juanb\\source\\repos\\ProjetoTesteParcerias\\testando\\testando.csproj",
         "projectName": "testando",
-        "projectPath": "C:\\Users\\juanb\\OneDrive\\Área de Trabalho\\testando\\testando\\testando.csproj",
+        "projectPath": "C:\\Users\\juanb\\source\\repos\\ProjetoTesteParcerias\\testando\\testando.csproj",
         "packagesPath": "C:\\Users\\juanb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\juanb\\OneDrive\\Área de Trabalho\\testando\\testando\\obj\\",
+        "outputPath": "C:\\Users\\juanb\\source\\repos\\ProjetoTesteParcerias\\testando\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

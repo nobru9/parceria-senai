@@ -9,53 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = testando
 build_property.RootNamespace = testando
-build_property.ProjectDir = C:\Users\juanb\OneDrive\Área de Trabalho\testando\testando\
+build_property.ProjectDir = c:\Users\juanb\source\repos\ProjetoTesteParcerias\testando\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\juanb\OneDrive\Área de Trabalho\testando\testando
+build_property.MSBuildProjectDirectory = c:\Users\juanb\source\repos\ProjetoTesteParcerias\testando
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/juanb/OneDrive/Área de Trabalho/testando/testando/Views/Home/Index.cshtml]
+[c:/Users/juanb/source/repos/ProjetoTesteParcerias/testando/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/juanb/OneDrive/Área de Trabalho/testando/testando/Views/Parcerias/Cisco.cshtml]
+[c:/Users/juanb/source/repos/ProjetoTesteParcerias/testando/Views/Parcerias/Cisco.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFyY2VyaWFzXENpc2NvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/juanb/OneDrive/Área de Trabalho/testando/testando/Views/Parcerias/Google.cshtml]
+[c:/Users/juanb/source/repos/ProjetoTesteParcerias/testando/Views/Parcerias/Google.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFyY2VyaWFzXEdvb2dsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/juanb/OneDrive/Área de Trabalho/testando/testando/Views/Parcerias/Huawei.cshtml]
+[c:/Users/juanb/source/repos/ProjetoTesteParcerias/testando/Views/Parcerias/Huawei.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFyY2VyaWFzXEh1YXdlaS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/juanb/OneDrive/Área de Trabalho/testando/testando/Views/Parcerias/Index.cshtml]
+[c:/Users/juanb/source/repos/ProjetoTesteParcerias/testando/Views/Parcerias/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFyY2VyaWFzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/juanb/OneDrive/Área de Trabalho/testando/testando/Views/Parcerias/Oracle.cshtml]
+[c:/Users/juanb/source/repos/ProjetoTesteParcerias/testando/Views/Parcerias/Oracle.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFyY2VyaWFzXE9yYWNsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/juanb/OneDrive/Área de Trabalho/testando/testando/Views/Shared/Error.cshtml]
+[c:/Users/juanb/source/repos/ProjetoTesteParcerias/testando/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/juanb/OneDrive/Área de Trabalho/testando/testando/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/juanb/source/repos/ProjetoTesteParcerias/testando/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/juanb/OneDrive/Área de Trabalho/testando/testando/Views/_ViewImports.cshtml]
+[c:/Users/juanb/source/repos/ProjetoTesteParcerias/testando/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/juanb/OneDrive/Área de Trabalho/testando/testando/Views/_ViewStart.cshtml]
+[c:/Users/juanb/source/repos/ProjetoTesteParcerias/testando/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/juanb/OneDrive/Área de Trabalho/testando/testando/Views/Shared/_Layout.cshtml]
+[c:/Users/juanb/source/repos/ProjetoTesteParcerias/testando/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-bppmf4kdze
